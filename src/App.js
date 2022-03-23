@@ -2,6 +2,8 @@ import './App.css';
 
 import AboutBryan from './AboutBryan';
 import AboutTriston from './AboutTriston';
+import AboutGrace from './AboutGrace';
+import AboutZach from './AboutZach';
 
 
 function App() {
@@ -9,6 +11,8 @@ function App() {
     <div className="App">
       <AboutBryan />
       <AboutTriston/>
+      <AboutZach />
+      <AboutGrace />
     </div>
   );
 }
